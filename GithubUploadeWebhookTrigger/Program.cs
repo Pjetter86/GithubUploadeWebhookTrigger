@@ -6,7 +6,7 @@ namespace GithubUploadeWebhookTrigger
     {
         static void Main(string[] args)
         {
-            string test = "test2";
+            string test = "test3";
         }
     }
 }
